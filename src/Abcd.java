@@ -18,7 +18,7 @@ public class Abcd {
         }
         
         // Print the final output
-        System.out.println("Output is double: " + output);
+        System.out.println("Output is double : " + output);
     }
 	}
 
