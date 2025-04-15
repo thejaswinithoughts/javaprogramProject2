@@ -13,7 +13,7 @@ public class BrokenLinks {
 		//WebDriver driver = new ChromeDriver();
 	//	driver.get("https://www.flipkart.com");
 		
-	//List<WebElement>h Links = driver.findElements(By.tagName("a"));
+	//List<WebElement>hk Links = driver.findElements(By.tagName("a"));
 	//System.out.println("Total number of links"+Links.size());
 	
 	List<String> urlList = new ArrayList<String>();
